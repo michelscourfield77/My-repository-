@@ -5,6 +5,6 @@ setup(
     version='0.1',
     packages=find_packages(),
     description='Module local pour évaluer des expressions mathématiques',
-    author='TonNom',
+    author=michel scourfield,
     python_requires='>=3.6',
 )
